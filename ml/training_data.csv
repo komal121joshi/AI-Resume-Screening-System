@@ -1,0 +1,38 @@
+resume_text,job_description,label
+"Python SQL Pandas Excel data analysis","Data Analyst with Python SQL Pandas Excel and Power BI skills",Suitable
+"Python SQL Pandas Power BI Excel","Data Analyst with Python SQL Pandas Excel and Power BI skills",Suitable
+"Python Pandas NumPy SQL Machine Learning","Data Scientist with Python Pandas NumPy SQL and Machine Learning skills",Suitable
+"Python Pandas NumPy Scikit-learn Machine Learning","Data Scientist with Python Pandas NumPy Scikit-learn and Machine Learning skills",Suitable
+"Python Django SQL Git REST API","Backend Developer with Python Django SQL Git and REST API skills",Suitable
+"Python Flask SQL Git REST API","Backend Developer with Python Flask SQL Git and REST API skills",Suitable
+"HTML CSS JavaScript React Git GitHub","Frontend Developer with HTML CSS JavaScript React and Git skills",Suitable
+"HTML CSS JavaScript React Bootstrap Git","Frontend Developer with HTML CSS JavaScript React and Git skills",Suitable
+"Python Django SQL Git","Python Developer with Python Django SQL and Git skills",Suitable
+"Python Flask SQL Git","Python Developer with Python Flask SQL and Git skills",Suitable
+"Python NumPy Pandas Scikit-learn Machine Learning","Machine Learning Engineer with Python NumPy Pandas Scikit-learn and Machine Learning skills",Suitable
+"Python TensorFlow Keras Machine Learning","Machine Learning Engineer with Python TensorFlow Keras and Machine Learning skills",Suitable
+"SQL MySQL PostgreSQL database management","Database Developer with SQL MySQL PostgreSQL and database management skills",Suitable
+"SQL MySQL PostgreSQL database design","Database Developer with SQL MySQL PostgreSQL and database management skills",Suitable
+"Power BI Excel SQL data analysis","Power BI Developer with Power BI Excel SQL and data analysis skills",Suitable
+"Power BI Excel SQL dashboards","Power BI Developer with Power BI Excel SQL and dashboard skills",Suitable
+"Git Docker Linux AWS","DevOps Engineer with Git Docker Linux and AWS skills",Suitable
+"Git Docker Linux cloud deployment","DevOps Engineer with Git Docker Linux and cloud technologies",Suitable
+"Python NLP machine learning Scikit-learn","NLP Engineer with Python NLP machine learning and Scikit-learn skills",Suitable
+"Python natural language processing machine learning","NLP Engineer with Python natural language processing and machine learning skills",Suitable
+"HTML CSS JavaScript","Data Analyst with Python SQL Pandas Excel and Power BI skills",Not Suitable
+"Excel PowerPoint Word","Backend Developer with Python Django SQL Git and REST API skills",Not Suitable
+"Java Spring Boot","Frontend Developer with HTML CSS JavaScript React and Git skills",Not Suitable
+"HTML CSS Bootstrap","Data Scientist with Python Pandas NumPy Scikit-learn and Machine Learning skills",Not Suitable
+"Python Django","Data Scientist with Python Pandas NumPy Scikit-learn and Machine Learning skills",Not Suitable
+"SQL MySQL","Frontend Developer with HTML CSS JavaScript React and Git skills",Not Suitable
+"React JavaScript HTML CSS","Backend Developer with Python Django SQL Git and REST API skills",Not Suitable
+"Excel Power BI","Machine Learning Engineer with Python NumPy Pandas Scikit-learn and Machine Learning skills",Not Suitable
+"Java C++ Spring Boot","Data Analyst with Python SQL Pandas Excel and Power BI skills",Not Suitable
+"HTML CSS JavaScript React","Database Developer with SQL MySQL PostgreSQL and database management skills",Not Suitable
+"Python Pandas Excel","DevOps Engineer with Git Docker Linux and AWS skills",Not Suitable
+"SQL Excel Power BI","Python Developer with Python Django SQL and Git skills",Not Suitable
+"JavaScript React Vue","Python Developer with Python Django SQL and Git skills",Not Suitable
+"C C++ Java","NLP Engineer with Python NLP machine learning and Scikit-learn skills",Not Suitable
+"HTML CSS JavaScript","Machine Learning Engineer with Python TensorFlow Keras and Machine Learning skills",Not Suitable
+"Excel Power BI Tableau","Backend Developer with Python Flask SQL Git and REST API skills",Not Suitable
+"Java Spring Hibernate","Frontend Developer with HTML CSS JavaScript React and Git skills",Not Suitable
